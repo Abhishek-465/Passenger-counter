@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(rgba(0,0,0,0.527),rgba(0,0,0,0.5)), url("https://t4.ftcdn.net/jpg/03/15/01/55/360_F_315015583_O5III7qwBbXCxzpuQ44aOPkTLBksATpP.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100vw;
+    height:100vh;
+    color: white;
+}
+#btn{
+width: 200px;
+height: 40px;
+margin: 10px 0px;
+border-radius: 30px;
+color: white;
+background: rgb(58, 88, 11);
+}
+#save-btn{
+width: 200px;
+height: 40px;
+margin: 10px 0px;
+border-radius: 30px;
+color: white;
+background: rgb(255, 115, 96);
+}
